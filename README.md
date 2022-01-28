@@ -7,7 +7,7 @@ For this project, [August 2019 data](insert link to CSV file here) from the [Cit
 ## Results
 
 ### 1. Checkout Times for Users
-![Checkout Times for Users](/Resources/Checkout Times for Users.png)
+![Checkout Times for Users]("/Resources/Checkout Times for Users.png")
 
 ### 2. Gender Breakdown
 ![Gender Breakdown](/Resources/Gender Breakdown.png)
