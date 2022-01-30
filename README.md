@@ -85,6 +85,10 @@ Overall, the results revealed the following inights:
 - There were significantly more subscribers than customers of the Citi Bike program, most of which were male
 - Most bike trips occurred on Thursday, Friday and Saturday, regardless of user type or gender
 
+These findings indicate the a similar program could be implemented for Des Moines, but scaled to match the geography, population, and demographic in Des Moines.
+
 Two additional visualizations that could be created for future analysis would be:
 1. Top Starting Locations by Gender
 2. Top Ending Locations by Gender
+
+These two visualizations could provide further insight into the most popular locations around the city that users start and end their trips, by gender. These findings would tie into the existing visualizations of metrics broken down by gender.
